@@ -1,5 +1,6 @@
 # hola-mundo
-Repositorio de prueba Launch X
+Repositorio
 
 
 Autor: Brenda Lopez
+Fecha: 7 de agosto
